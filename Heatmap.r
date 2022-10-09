@@ -29,3 +29,4 @@ Heatmap(mat)
 col_fun = colorRamp2(c(-2, 0, 2), c("Grey", "white", "Pink"))
 
 Heatmap(mat, col = col_fun)
+
