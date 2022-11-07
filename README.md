@@ -29,6 +29,7 @@ Chromosome-based circos plots are the ones that can take a lot of different type
 Survival analysis is a collection of statistical procedures for data analysis where the outcome variable of interest is time until an event occurs
 
 7.Single cell RNA-Seq analysis: sc_RNA allows us to understand cellular differences in expression, and hence it is directly applicable to the studies of cell heterogeneity, cell population and subpopulation identification, effects of low copy mRNA distribution and transcriptional regulation. Single cell RNA-seq data used here is generated using the 10X genomics platform.
- Name: Gayatri Anand Lohar
+
+Name: Gayatri Anand Lohar
 
 
